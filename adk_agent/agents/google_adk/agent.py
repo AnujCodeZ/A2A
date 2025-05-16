@@ -4,7 +4,7 @@ from google.adk.agents.llm_agent import LlmAgent
 
 from google.adk.sessions import InMemorySessionService
 from google.adk.memory.in_memory_memory_service import InMemoryMemoryService
-from google.ask.artifacts import InMemoryArtifactService
+from google.adk.artifacts import InMemoryArtifactService
 
 from google.adk.runners import Runner
 
